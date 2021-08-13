@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Basketball Court
+* source:	https://sketchfab.com/3d-models/low-poly-basketball-court-f6e9a768da61476a8b73af169be5fa85
+* author:	Waven (https://sketchfab.com/wavenquack24)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Basketball Court" (https://sketchfab.com/3d-models/low-poly-basketball-court-f6e9a768da61476a8b73af169be5fa85) by Waven (https://sketchfab.com/wavenquack24) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
